@@ -1,4 +1,4 @@
-![logo](https://github.com/Swastik-Babu/Swastik-Babu/blob/main/Github%20banner.png)
+![logo](https://github.com/Swastik-Babu/Swastik-Babu/blob/main/IT%20UNDERGRAD%20%20DSA%20ENTHUSIAST.png)
 <h1 align="center">Hi 👋, I'm Swastik Babu</h1>
 <h3 align="center">An IT Undergrad @ IIIT BBSR | 🌱 Exploring the world of Algorithms and Data Structures |</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"
